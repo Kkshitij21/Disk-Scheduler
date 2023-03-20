@@ -1,2 +1,2 @@
-# Disk-Scheduler
-  Website simulating disk scheduling algorithms
+# DISKSCHEDULER
+Website simulating disk scheduling algorithms.
